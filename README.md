@@ -24,6 +24,8 @@
 
   `final draft`: https://github.com/quentinbkk/Amazon-AFE-Project--First-Repository-/blob/main/AFE%20Written%20Component.pdf
 
+  `data`: Daily AMZN price data from Orbis; S&P500 returns for market-model estimation; simulated data for pairs-trading section.
+
   `outcomes`: The analysis found that Amazon’s stock returns exhibit classic financial time-series features—volatility clustering, heavy tails, and high persistence in volatility—best captured by a GARCH(1,1) model, with Monte-Carlo simulations confirming these dynamics. Tests supported the Efficient Market Hypothesis, the event study showed no significant abnormal returns around the 2021 CEO transition, and the pairs-trading exercise demonstrated cointegration with the synthetic comparator stock.
   
 
