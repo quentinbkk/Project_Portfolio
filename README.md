@@ -44,4 +44,10 @@
 
   `outcomes`: The analysis found that Amazon’s stock returns exhibit classic financial time-series features—volatility clustering, heavy tails, and high persistence in volatility—best captured by a GARCH(1,1) model, with Monte-Carlo simulations confirming these dynamics. Tests supported the Efficient Market Hypothesis, the event study showed no significant abnormal returns around the 2021 CEO transition, and the pairs-trading exercise demonstrated cointegration with the synthetic comparator stock.
   
-## Other
+## WIP
+
+### ML-Lib: A fully integrated ML library of classes and objects, made for me
+
+### ContraBench: Research on latent contradictions in the processing of legal documents by language models
+
+### AllFence: A database for any Fencing Federation looking to modernize their fencing data storage and presentation (competition schedules, player profiles)
