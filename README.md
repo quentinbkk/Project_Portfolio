@@ -1,2 +1,22 @@
-# Project_Portfolio
-This is my portfolio of the projects I've done so far
+# Quentin's Portfolio
+
+## Machine Learning
+### 1. ShapeAI - A tool that generates a large synthetic dataset of basic geometric shapes and leverages this data to train to predictive models. 
+
+
+## Data Science (Analytics, Econometrics)
+### 1. The Productivity Effects of Foreign Ownership in Laos - Undergraduate Dissertation; achieved First Class (Highest Honours)
+  `summary`: I used panel data and econometric methods (fixed effects, IV, and matching) to estimate how foreign ownership affects firm productivity and to address endogeneity through multiple robustness checks.
+  
+  `code`: https://github.com/quentinbkk/Laos_Productivity/blob/main/B202054.do
+
+  `data`: World Bank Enterprise Survey (https://www.enterprisesurveys.org/en/enterprisesurveys)
+
+  `outcomes`: The analysis showed a consistent and statistically significant productivity premium for foreign-owned firms, even after addressing endogeneity with IV and matching approaches. It also highlighted how sensitive empirical results can be to model specification, reinforcing the importance of robustness checks in applied econometrics.
+  
+  
+
+  
+
+
+## Other
