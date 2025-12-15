@@ -5,7 +5,9 @@
 ### 1. AllFence: A database for any Fencing Federation looking to modernize their fencing data storage and presentation (competition schedules, player profiles)
   `summary`: AllFence is a centralized and interactive database designed to help emerging fencing federations modernize how they manage athlete information, competition results, and national rankings. Built with a structured relational schema and controlled vocabularies, the system improves transparency, data integrity, and accessibility for administrators, coaches, and the public.
 
-  `code`: https://github.com/quentinbkk/allfence/blob/main/PROJECT_STRUCTURE.md
+  `code`: [https://github.com/quentinbkk/allfence/blob/main/PROJECT_STRUCTURE.md](https://github.com/quentinbkk/allfence)
+
+  `prototype`: Accessible at https://allfence.vercel.app/
 
   `data`: Synthetic datasets for fencer profiles, competitions, rankings, and controlled vocabularies
 
