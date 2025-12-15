@@ -43,7 +43,7 @@
 
   `outcomes`: The synthetic generators enabled large-scale testing and iterative refinement of the RAG classifier, significantly improving its accuracy and robustness while preserving data privacy.
   
-### 5. Analysis of AMZN Stock Returns (2020-2025) - Financial Econometrics Project; achieved highest grade in class (86%, class average: 60%)
+### 5. Analysis of AMZN Stock Returns (2020-2025)
 
   `summary`: This project applies time-series econometrics to analyse Amazon’s stock using five years of daily data (2020–2025). The analysis investigates stylised facts of financial returns, tests market efficiency, builds volatility-forecasting models (ARMA/ARCH/GARCH), constructs an ex-ante 5-day forecast, performs Monte-Carlo simulations, and conducts an event study around Amazon’s 2021 CEO transition. It also includes a pairs-trading simulation using a cointegrated synthetic competitor stock.
 
